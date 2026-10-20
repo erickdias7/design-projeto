@@ -1,0 +1,23 @@
+*{
+    height:60%;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 54, 99);
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(32, 138, 238);
+    text-align: center;
+}
+body{
+    /*background-color: rgb(153, 209, 115); background-image: linear-gradient(to bottom, rgb(28, 121, 207), black);*/
+    background-color: rgb(233, 215, 55);
+    background-image: url(camisa-de-futebol.png);
+    background-repeat: no-repeat ;
+    background-position:center;
+    
+
+    
+}
